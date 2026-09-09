@@ -66,9 +66,17 @@
 
 ### 📈 GitHub Statistics
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaikbaji18&show_icons=true&theme=dark&hide_border=true" alt="Shaik Baji GitHub Stats" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikbaji18&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="45%" />
+</div>
+
+<br/>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaikbaji18&show_icons=true&theme=tokyonight&hide_border=true" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikbaji18&layout=compact&theme=tokyonight&hide_border=true" height="175" />
+  <img src="https://img.shields.io/github/followers/shaikbaji18?style=for-the-badge&logo=github&label=Followers&color=0077B5" />
+  <img src="https://img.shields.io/github/stars/shaikbaji18?style=for-the-badge&logo=github&label=Stars&color=F2C811" />
 </p>
 
 ---
@@ -77,4 +85,3 @@
   <i>"Driven by data, powered by code."</i><br>
   📬 Feel free to reach out via <b><a href="mailto:shaikbaji1434@gmail.com">Email</a></b> or connect on <b><a href="https://www.linkedin.com/in/shaik-baji09">LinkedIn</a></b>!
 </p>
-
